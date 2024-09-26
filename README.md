@@ -81,11 +81,5 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lyfe691&show_icons=true&theme=radical" alt="lyfe691" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyfe691&theme=dark" alt="lyfe691" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lyfe691&show_icons=true&locale=en&layout=compact&theme=radical" alt="lyfe691" />
 </p>
