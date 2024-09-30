@@ -1,16 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yanis%20Sebastian%20Zürcher&fontSize=50&fontAlignY=35&desc=Passionate%20CS%20Student%20|%20Innovator%20|%20Code%20Enthusiast&descAlignY=50&descAlign=62&animation=twinkling" width="100%" alt="Header">
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/lyfe691?label=Followers&style=for-the-badge&logo=github)](https://github.com/lyfe691)
+[![Profile Views](https://komarev.com/ghpvc/?username=lyfe691&color=brightgreen&style=for-the-badge)](https://github.com/lyfe691)
+[![Repos](https://badges.pufler.dev/repos/lyfe691?style=for-the-badge&color=blue)](https://github.com/lyfe691?tab=repositories)
+[![GitHub Stars](https://img.shields.io/github/stars/lyfe691?style=for-the-badge&logo=github)](https://github.com/lyfe691)
 
-<p align="center">
-  <a href="https://github.com/lyfe691">
-    <img src="https://img.shields.io/github/followers/lyfe691?label=Followers&style=social" alt="GitHub followers">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=lyfe691&color=brightgreen" alt="Profile Views">
-  <a href="https://github.com/lyfe691?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/lyfe691" alt="Repos">
-  </a>
-  <img src="https://img.shields.io/github/stars/lyfe691?style=social" alt="GitHub Stars">
-</p>
-
+</div>
 <h2 align="center">🚀 Quick Links</h2>
 
 <p align="center">
