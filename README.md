@@ -23,7 +23,7 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc3Mzk5NjIsIm5iZiI6MTcyNzczOTY2MiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTMwVDIzNDEwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ0YjIzNjcwZmI3NGJmYjUyOTk2N2IzYmRhNzE5OWE2ZTRhN2Q0ZTM3YTkxMWUxZGZjZTYzMzA4ZjY2N2JmYzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qJjDiCxlKx-T3t-2diTLiI_zAIHctr0V1MMGepi3dM8">
+<img align="right" alt="Coding" width="400" src="https://github.com/lyfe691/lyfe691/blob/main/img/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif">
 
 - 🎓 CS Student at [WISS Zurich](https://wiss.ch)
 - 🚀 Working on [ChatApp](https://github.com/lyfe691/ChatApp)
