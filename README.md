@@ -102,7 +102,7 @@
       <td width="50%">
         <h3 align="center">ChatApp</h3>
         <p align="center">
-          <a href="#" target="_blank">
+          <a href="https://github.com/lyfe691/ChatApp" target="_blank">
             <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100%" alt="Realtime Chat App"/>
           </a>
         </p>
