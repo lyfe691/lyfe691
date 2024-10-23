@@ -5,9 +5,9 @@
 
   <!-- Profile Views & Social Links in one line -->
   [![](https://komarev.com/ghpvc/?username=lyfe691&style=for-the-badge&color=88C0D0)](https://github.com/lyfe691)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-88C0D0?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/yanis-sebastian-zurcher)
-  [![Website](https://img.shields.io/badge/Website-88C0D0?style=for-the-badge&logo=google-chrome&logoColor=black)](https://your-website.com)
-  [![Email](https://img.shields.io/badge/Email-88C0D0?style=for-the-badge&logo=gmail&logoColor=black)](mailto:yanis@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-88C0D0?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/yanis-sebastian-zürcher)
+  [![Website](https://img.shields.io/badge/Website-88C0D0?style=for-the-badge&logo=google-chrome&logoColor=black)](https://yanissebastianzuercher.ch)
+  [![Email](https://img.shields.io/badge/Email-88C0D0?style=for-the-badge&logo=gmail&logoColor=black)](mailto:yanis.sebastian.zuercher@gmail.com)
   
 </div>
 
