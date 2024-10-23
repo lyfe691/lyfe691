@@ -17,10 +17,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyfe691&hide_border=true&layout=compact&theme=nord&bg_color=00000000"/>
 </div>
 
-<!-- WakaTime Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lyfe691&hide_border=true&theme=nord&bg_color=00000000" />
-</div>
+
 
 <!-- Tech Stack -->
 <div align="center">
