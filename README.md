@@ -21,7 +21,7 @@
 
 <!-- Tech Stack -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cpp,docker,git,mongodb,mysql,linux,vscode,idea&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,java,spring,cpp,docker,git,mongodb,mysql,linux,vscode,idea&theme=dark" />
 </div>
 
 <!-- Activity Graph -->
