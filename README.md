@@ -14,7 +14,7 @@
 <!-- Stats Cards -->
 <div align="center" >
   <img height="150em" src="https://streak-stats.demolab.com?user=lyfe691&locale=en&mode=weekly&theme=nord&hide_border=false&border_radius=5"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=lyfe691&locale=en&hide_title=true&layout=compact&card_width=300&theme=nord&hide_border=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyfe691&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false"/>
 </div>
 <br>
 
@@ -26,4 +26,3 @@
 
 <!-- Activity Graph -->
 [![Activity](https://github-readme-activity-graph.vercel.app/graph?username=lyfe691&theme=nord&hide_border=true&bg_color=00000000&line=88C0D0&point=88C0D0)](https://github.com/lyfe691)
-
