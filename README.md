@@ -1,4 +1,4 @@
-<!-- Header -->
+
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=88C0D0&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Yanis+Sebastian+Z%C3%BCrcher+%F0%9F%91%8B;Computer+Science+Student+from+Switzerland+%F0%9F%87%A8%F0%9F%87%AD)](https://git.io/typing-svg)
