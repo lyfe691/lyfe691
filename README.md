@@ -3,7 +3,7 @@ hi
 <!--<div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=88C0D0&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Yanis+Sebastian+Z%C3%BCrcher+%F0%9F%91%8B;Computer+Science+Student+from+Switzerland+%F0%9F%87%A8%F0%9F%87%AD)](https://git.io/typing-svg)
-
+ 
 
   [![](https://komarev.com/ghpvc/?username=lyfe691&style=for-the-badge&color=88C0D0)](https://github.com/lyfe691)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-88C0D0?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/yanis-sebastian-zürcher)
