@@ -1,5 +1,19 @@
 hi
 
+<!-- # Yanis Sebastian Zürcher
+
+Currently working on:
+
+- [**Vault**](https://github.com/lyfe691/vault) — an IAM sandbox using Keycloak, FastAPI, and Next.js  
+- [**WISS Forum**](https://github.com/lyfe691/wiss-forum) — a gamified platform to motivate and connect students - specifically at the WISS
+
+Finished projects: [sola.ysz.life/projects](https://sola.ysz.life/projects)
+
+My goal is to work @ [**vercel**](https://vercel.com) — or build something equally focused and minimal.
+
+[sola.ysz.life](https://sola.ysz.life) · [github.com/lyfe691](https://github.com/lyfe691)
+
+
  <!-- ![header](./img/github-header-image.png)
 
 
