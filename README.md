@@ -1,18 +1,8 @@
-<div align="center">
-  
-  ### `lyfe691` /laɪf 6 9 1/
-  
-  <sup><i>Zürich, CH • software developer • building polished, purposeful apps</i></sup>
-  
-</div>
+<p align="center">
+  <img src="https://media1.tenor.com/m/aoUkvfAI3u4AAAAC/veskore.gif" width="480" alt="Todoro Miyazaki">
+</p>
 
-<samp>
-/ <a href="https://sola.ysz.life">sola</a> • <a href="https://github.com/lyfe691/sola">github</a>
-<br>
-/ <a href="https://applicare.app">applicare</a> • <a href="https://github.com/lyfe691/applicare">github</a>
-<br>
-/ <a href="https://linkedin.com/in/yanis-sebastian-zuercher">linkedin</a> • <a href="mailto:yanis.sebastian.zuercher@gmail.com">email</a>
-</samp>
+
 
 
 <!-- # Yanis Sebastian Zürcher
