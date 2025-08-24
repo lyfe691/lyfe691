@@ -14,7 +14,6 @@
 / <a href="https://thoughts.ysz.life">thoughts</a> • <a href="https://github.com/lyfe691/thoughts">github</a>
 <br>
 / <a href="https://linkedin.com/in/yanis-sebastian-zuercher">linkedin</a> • <a href="mailto:yanis.sebastian.zuercher@gmail.com">email</a>
-
 </samp>
 
 
