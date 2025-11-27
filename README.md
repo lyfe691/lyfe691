@@ -1,24 +1,10 @@
-<div align="center">
-  
-  ### `lyfe691` /laɪf 6 9 1/
-  
-  <sup><i>Zürich, CH • software developer • building polished, purposeful apps</i></sup>
-  
-</div>
-
 <samp>
-/ <a href="https://sola.ysz.life">sola</a> • <a href="https://github.com/lyfe691/sola">github</a>
-<br>
-/ <a href="https://applicare.app">applicare</a> • <a href="https://github.com/lyfe691/applicare">github</a>
-<br>
-/ <a href="https://thoughts.ysz.life">thoughts</a> • <a href="https://github.com/lyfe691/thoughts">github</a>
-<br>
-/ <a href="https://kinoa.lol">kinoa</a> • <a href="https://github.com/lyfe691/kinoa">github</a>
-<br>
-/ <a href="https://linkedin.com/in/yanis-sebastian-zürcher">linkedin</a> • <a href="mailto:yanis.sebastian.zuercher@gmail.com">email</a>
+/ <a href="https://sola.ysz.life">sola</a> · <a href="https://github.com/lyfe691/sola">github</a><br>
+/ <a href="https://applicare.app">applicare</a> · <a href="https://github.com/lyfe691/applicare">github</a><br>
+/ <a href="https://thoughts.ysz.life">thoughts</a> · <a href="https://github.com/lyfe691/thoughts">github</a><br>
+/ <a href="https://kinoa.lol">kinoa</a> · <a href="https://github.com/lyfe691/kinoa">github</a><br>
+/ <a href="https://linkedin.com/in/yanis-sebastian-zürcher">linkedin</a> · <a href="mailto:yanis.sebastian.zuercher@gmail.com">email</a>
 </samp>
-
-
 
 
 <!-- # Yanis Sebastian Zürcher
