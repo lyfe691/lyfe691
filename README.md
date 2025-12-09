@@ -1,33 +1,15 @@
 <pre>
-<b>user@ysz:~$</b> ls -la
+<b>user@lyfe:~$</b> ls -la
 
 drwx------  <a href="https://sola.ysz.life">sola</a>       <a href="https://sola.ysz.life">[website]</a>   <a href="https://github.com/lyfe691/sola">[source]</a>
 drwx------  <a href="https://applicare.app">applicare</a>  <a href="https://applicare.app">[website]</a>   <a href="https://github.com/lyfe691/applicare">[source]</a>
 drwx------  <a href="https://thoughts.ysz.life">thoughts</a>   <a href="https://thoughts.ysz.life">[website]</a>   <a href="https://github.com/lyfe691/thoughts">[source]</a>
 drwx------  <a href="https://kinoa.lol">kinoa</a>      <a href="https://kinoa.lol">[website]</a>   <a href="https://github.com/lyfe691/kinoa">[source]</a>
 
-<b>user@ysz:~$</b> cat info.txt
+<b>user@lyfe:~$</b> cat info.txt
 
 <a href="https://linkedin.com/in/yanis-sebastian-zürcher">[linkedin]</a> :: <a href="mailto:yanis.sebastian.zuercher@gmail.com">[email]</a>
 </pre>
-<!--
-OPTION 2: THE ASCII TREE (Alternative)
-To use this one instead, delete the code above and uncomment this block.
-
-<pre>
-.
-└── y_s_z
-├── sola        ( <a href="https://sola.ysz.life">site</a> . <a href="https://github.com/lyfe691/sola">repo</a> )
-├── applicare   ( <a href="https://applicare.app">site</a> . <a href="https://github.com/lyfe691/applicare">repo</a> )
-├── thoughts    ( <a href="https://thoughts.ysz.life">site</a> . <a href="https://github.com/lyfe691/thoughts">repo</a> )
-└── kinoa       ( <a href="https://kinoa.lol">site</a> . <a href="https://github.com/lyfe691/kinoa">repo</a> )
-
-&gt;&gt; &lt;a href=&quot;https://linkedin.com/in/yanis-sebastian-zürcher&quot;&gt;linkedin&lt;/a&gt;
-&gt;&gt; &lt;a href=&quot;mailto:yanis.sebastian.zuercher@gmail.com&quot;&gt;email&lt;/a&gt;
-
-
-</pre>
--->
 
 
 <!-- # Yanis Sebastian Zürcher
