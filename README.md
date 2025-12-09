@@ -1,16 +1,15 @@
 <pre>
-<span style="color: #6a737d">user@lyfe:~$</span> ls -la
+<b>user@ysz:~$</b> ls -la
 
 drwx------  <a href="https://sola.ysz.life">sola</a>       <a href="https://sola.ysz.life">[website]</a>   <a href="https://github.com/lyfe691/sola">[source]</a>
 drwx------  <a href="https://applicare.app">applicare</a>  <a href="https://applicare.app">[website]</a>   <a href="https://github.com/lyfe691/applicare">[source]</a>
 drwx------  <a href="https://thoughts.ysz.life">thoughts</a>   <a href="https://thoughts.ysz.life">[website]</a>   <a href="https://github.com/lyfe691/thoughts">[source]</a>
 drwx------  <a href="https://kinoa.lol">kinoa</a>      <a href="https://kinoa.lol">[website]</a>   <a href="https://github.com/lyfe691/kinoa">[source]</a>
 
-<span style="color: #6a737d">user@lyfe:~$</span> cat info.txt
+<b>user@ysz:~$</b> cat info.txt
 
 <a href="https://linkedin.com/in/yanis-sebastian-zürcher">[linkedin]</a> :: <a href="mailto:yanis.sebastian.zuercher@gmail.com">[email]</a>
 </pre>
-
 <!--
 OPTION 2: THE ASCII TREE (Alternative)
 To use this one instead, delete the code above and uncomment this block.
